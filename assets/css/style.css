@@ -17,6 +17,10 @@ body {
 .section { 
      padding: 30px 15px; 
 } 
+.section.section-secondery{
+     background: #efefef;
+
+}
 .section-headline { 
      text-align: center; 
      font-size: 40px; 
