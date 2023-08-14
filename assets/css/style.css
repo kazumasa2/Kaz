@@ -72,12 +72,17 @@ about
 }
 
 .feature {
+     text-align: center;
+     padding: 0 15px;
 }
 .feature-headline {
+     font-weight: bold;
+     padding:0 0 20px;
 }
 .feaure-img {
-
+     padding: 0 0 20px;
 }
 .feature-discription {
-
+     margin: 0;
+     text-align: left;
 }
