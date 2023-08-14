@@ -49,3 +49,35 @@ about
  
  
 } */
+
+.grid {
+     margin: 0;
+     padding: 0;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+
+.grid-item {
+     list-style: none;
+}
+.grid-col-2 > .grid-item {
+     width: 50%;
+}
+.grid-col-3 > .grid-item {
+     width: 33.3%;
+}
+.grid-col-4 > .grid-item {
+     width: 25%;
+}
+
+.feature {
+}
+.feature-headline {
+}
+.feaure-img {
+
+}
+.feature-discription {
+
+}
