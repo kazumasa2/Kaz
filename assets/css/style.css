@@ -50,7 +50,7 @@ about
  
 } */
 
-grid
+
 .grid {
      margin: 0;
      padding: 0;
@@ -71,6 +71,9 @@ grid
 .grid-col-4 > .grid-item {
      width: 25%;
 }
+
+
+
 
 .feature {
      text-align: center;
