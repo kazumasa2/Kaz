@@ -57,7 +57,7 @@ grid
 .section-button{
      margin-top: 40px;
      text-align: center;
-     
+
 }
 /* 
 about
@@ -180,6 +180,7 @@ button
    text-align: center;
    padding: 15px 60px;
    text-decoration: none;
+   border-radius: 5px;
    box-shadow: 5px 5px 0 #bbb;
    transition: box-shadow .25s;
 }
