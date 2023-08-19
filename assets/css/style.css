@@ -14,6 +14,9 @@ body {
 label,input,textarea,select,button{
      cursor: pointer;
 }
+button{
+     border: 0;
+}
 
 /* 
 grid
@@ -191,6 +194,9 @@ button
 .button:hover{
      box-shadow: 0 0 0 #bbb;
 }
+.button.button-submission{
+     background: #92d3ca;
+}
 
 /* 
 .select .input. textarea
@@ -216,4 +222,25 @@ button
      border: 1px solid #ccc;
      min-width: 500px;
      min-height: 100px;
+}
+
+/* 
+form
+*/
+
+/* .form {} */
+.form-table{
+     margin: 0 auto;
+}
+/* .form-table tr{} */
+.form-table th{
+     padding: 10px;
+     text-align: left;
+}
+.form-table td{
+     padding: 10px;
+}
+.form-button{
+     margin: 20px;
+     text-align: center;
 }
