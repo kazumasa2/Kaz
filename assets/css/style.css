@@ -256,3 +256,30 @@ works
 .works > img {
      margin: 0 15px;
 }
+
+/* 
+footer
+*/
+.footer {
+     background-color: #333;
+     color: #fff;
+}
+.footer-map {
+     margin: 0;
+     padding: 40px 15px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+.footer-map > iframe {
+     width: 60%;
+}
+.footer-mapinfo {
+     width: 40%;
+     padding: 15px;
+}
+.footer-maplogo {}
+.footer-mapaddress {}
+.footer-mapaddress > a {}
+.footer-line {}
+.footer-copy {}
