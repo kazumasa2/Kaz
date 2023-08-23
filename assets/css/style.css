@@ -278,8 +278,25 @@ footer
      width: 40%;
      padding: 15px;
 }
-.footer-maplogo {}
-.footer-mapaddress {}
-.footer-mapaddress > a {}
-.footer-line {}
-.footer-copy {}
+.footer-maplogo {
+     font-size: 25px;
+     font-weight: bold;
+}
+.footer-maplogo > svg {
+     fill: transparent;
+     margin-right: 10px;
+}
+.footer-mapaddress {
+     font-style: normal;
+}
+.footer-mapaddress > a {
+     color: #fff;
+}
+.footer-line {
+     border-color: #444;
+}
+.footer-copy {
+     display: block;
+     text-align: center;
+     padding: 10px;
+}
